@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">一个漂亮的主页，待编辑.</h1>
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ripplepiam" alt="ripplepiam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=518512" alt="518512 up" /> </p>
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
