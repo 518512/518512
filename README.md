@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Artificial intelligence**
 
-- 👨‍💻 All of my projects are available at [https://github.com/RipplePiam](https://github.com/RipplePiam)
+- 👨‍💻 All of my projects are available at [https://github.com/518512](https://github.com/518512)
 
 - 📝 I regulary write articles on [https://blog.csdn.net/qq_27677599](https://blog.csdn.net/qq_27677599)
 
@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ripplepiam&show_icons=true&include_all_commits=true&count_private=true&line_height=30" alt="ripplepiam" width="420" height="200"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ripplepiam&layout=compact&langs_count=10&hide=Makefile,NSIS,Assembly&card_width=420" alt="ripplepiam" width="420" height="200"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=518512&show_icons=true&include_all_commits=true&count_private=true&line_height=30" alt="ripplepiam" width="420" height="200"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=518512&layout=compact&langs_count=10&hide=Makefile,NSIS,Assembly&card_width=420" alt="ripplepiam" width="420" height="200"/>
 </p>
