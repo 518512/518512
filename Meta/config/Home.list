@@ -1,0 +1,5 @@
+# 本地/局域网地址
+# 参考：https://en.wikipedia.org/wiki/Reserved_IP_addresses
+
+IP-CIDR,192.168.155.0/24,no-resolve
+IP-CIDR,192.168.6.0/24,no-resolve
