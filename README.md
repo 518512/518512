@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/518512](https://github.com/518512)
 
-- 📝 I regulary write articles on [https://blog.csdn.net/qq_27677599](https://blog.csdn.net/qq_27677599)
+- 📝 I regulary write articles on [https://#)
 
 <!-- - 📫 How to reach me **@qq.com** -->
 <br/>
